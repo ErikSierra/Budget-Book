@@ -31,7 +31,7 @@ This Excel workbook is designed to facilitate budget tracking and financial mana
 - [Excel Workbook for Budget Tracking](https://snhu-my.sharepoint.com/:x:/r/personal/erik_sierra_snhu_edu/Documents/BudgetBook%20Copy.xlsx?d=w65ef588ecfdc4ff09f462406b9ed94e7&csf=1&web=1&e=JQKKXU)
 
 **Note:** Make sure to enable macros if prompted, as some features may require macro functionality for optimal performance.
-
+ 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXAMPLE:
 
